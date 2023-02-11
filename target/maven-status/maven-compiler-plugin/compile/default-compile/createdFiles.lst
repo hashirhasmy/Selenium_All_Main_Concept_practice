@@ -1,0 +1,13 @@
+utils\TestApp.class
+net\phptravels\CustomerCreation.class
+net\phptravels\LoginPage.class
+net\phptravels\CustomerManagementPage.class
+net\phptravels\Login.class
+net\phptravels\HomePage.class
+net\phptravels\Home.class
+com\guru99\demo\HomePage.class
+com\guru99\demo\RegisterPage.class
+com\guru99\demo\RegisterSuccessPage.class
+net\phptravels\CustomerCreationPage.class
+utils\PropertyFileReader.class
+net\phptravels\CustomerManagement.class
